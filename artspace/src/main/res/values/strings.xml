@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">Art Space</string>
+  <string name="previous">Previous</string>
+  <string name="next">Next</string>
+  <string name="image_one">Звёздная ночь</string>
+  <string name="image_two">Большая волна в Канагаве</string>
+  <string name="image_three">Крик</string>
+  <string name="author_one">Винсент Ван Гог (1889)</string>
+  <string name="author_two">Кацусика Хокусай (1831)</string>
+  <string name="author_three">Эдвард Мунк (1893)</string>
+</resources>
